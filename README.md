@@ -1,0 +1,1 @@
+A simple .bat file that closes the League of Legends client in a way that allows it to re-start itself. This is useful in scenarios like when getting disconnected when in champ select, the client takes longer to connect by itself than using this method.
